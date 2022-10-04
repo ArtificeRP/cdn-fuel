@@ -491,6 +491,12 @@ exports['qb-target']:AddTargetModel(props, {
 
 CreateThread(function()
 	local bones = {
+		"bodyshell",
+		"boot",
+		'door_dside_f', 
+		'door_dside_r', 
+		'door_pside_f', 
+		'door_pside_r',
 		"petroltank",
 		"petroltank_l",
 		"petroltank_r",
